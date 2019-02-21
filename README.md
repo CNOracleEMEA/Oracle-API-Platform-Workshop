@@ -19,3 +19,14 @@ Apiary is the de facto tool for designing APIs. At this stage you should have be
 •	Create a new API Project
 
 ![Apiary Project](/images/1.png)
+
+•	Enter the name – NN-OrganizationService
+NN being the number assigned to you by the trainers
+-	Make sure to select Team API. 
+-	Keep the format as API Blueprint. 
+
+![Apiary Project](/images/2.png)
+
+Your API project is created with default content – this default API is with Polls example –
+
+![Apiary Project](/images/3.jpg
