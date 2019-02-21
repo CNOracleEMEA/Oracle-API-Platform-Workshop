@@ -126,5 +126,53 @@ So now we have our API contract, we also have a stub that a mobile developer cou
 
 ![API Platform](/images/12.png)
 
-Note a Plan has also been created. APIs are made available to developers through Plans.
+#### Change API Request Policy
+
+If not open already, open your API
+- Click API Implementation 
+- Click API Request Policy 
+- Click Edit
+
+![API Platform](/images/13.png)
+
+- Under API Request URL enter OrganizationNN
+- Click Apply
+
+![API Platform](/images/14.png)
+
+#### Deploy the API to a Gateway
+
+Now we will deploy the API to a Gateway. These can run anywhere – on-premise, in the Oracle cloud, in any other cloud.
+- Click on Deployments
+
+![API Platform](/images/15.png)
+
+- Click Deploy API
+
+![API Platform](/images/16.png)
+
+Configure as follows
+
+- Development Gateway is checked
+- Initial Deployment State: Active
+
+Click Deploy
+
+![API Platform](/images/17.png)
+
+Note that the number of API’s waiting (n) for deployment is incremented before the number of Deployed (n) is incremented.
+- Verify that new Gateway was deployed
+
+![API Platform](/images/18.png)
+
+
+
+
+
+
+
+
+
+
+
 
