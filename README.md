@@ -227,6 +227,63 @@ Re-deploy to the Gateway
 ![API Platform](/images/25.png)
 
 
+#### Create a Plan
+
+#### Publish to the Developer Portal
+
+Open your Plan
+
+![API Platform](/images/27.png)
+
+The API is listed in the plan, but needs to be published to be activated
+- Click Entitlements
+- Hover over Unpublished to make the choices visible
+- Click Publish
+- When prompted “Are you sure you want to publish this entitlement?” – click Yes
+
+![API Platform](/images/28.png)
+
+You can verify the results: 
+
+![API Platform](/images/29.png)
+
+Now we can publish the plan to the developer portal
+
+- Click on Publication
+- View the URL and ending, its own unique Vanity Name. A vanity name is the URI path of an API’s details page when it is published to the Developer Portal.
+
+![API Platform](/images/30.png)
+
+![API Platform](/images/31.png)
+
+Once Published, you can unpublish, republish etc.
+
+Let’s now deploy the API to the Developer Portal
+- Once back in your API, CreateServiceOrg-NN, and click on Publication
+- Click on the end of the API Portal URL to edit the unique name
+- Click the check-mark to verify
+
+![API Platform](/images/32.png)
+
+- Click Publish to Portal
+
+![API Platform](/images/33.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
