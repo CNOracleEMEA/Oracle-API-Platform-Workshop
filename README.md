@@ -23,8 +23,7 @@ NN being the number assigned to you by the trainers
 -	Make sure to select Team API. 
 -	Keep the format as API Blueprint. 
 
-<a href="url"><img src="https://github.com/CNOracleEMEA/Oracle-API-Platform-Workshop/blob/master/images/2.png" align="left" height="500" width="300" ></a>
-
+![Apiary Project](/images/2.png)
 
 Your API project is created with default content – this default API is with Polls example –
 
@@ -227,29 +226,6 @@ Re-deploy to the Gateway
 
 
 #### Create a Plan
-
-We will now create a plan and add the API as an entitlement to this plan.
-
-Click Plans on the left Menu and than click Create
-
-![API Platform](/images/50.png)
-
-Enter the following details
-- Plan Name
-- Version
-
-Click Create button.
-
-![API Platform](/images/51.png)
-
-Now click on Entitlements icon and than Add Entitlements.
-
-![API Platform](/images/52.png)
-
-Select your API and click Add
-
-![API Platform](/images/53.png)
-
 
 #### Publish to the Developer Portal
 
