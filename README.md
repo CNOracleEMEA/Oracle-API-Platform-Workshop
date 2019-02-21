@@ -23,7 +23,7 @@ NN being the number assigned to you by the trainers
 -	Make sure to select Team API. 
 -	Keep the format as API Blueprint. 
 
-![Apiary Project](/images/2.png=250x250)
+![Apiary Project](/images/2.png)
 
 Your API project is created with default content – this default API is with Polls example –
 
