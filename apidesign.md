@@ -1,4 +1,4 @@
-##LAB1 : API Design - Apiary
+## LAB1 : API Design - Apiary
 
 Apiary is the de facto tool for designing APIs. At this stage you should have been given access to Apiary.
 
