@@ -1,37 +1,20 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/CNOracleEMEA/Oracle-API-Platform-Workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This set of labs covers the following Oracle Services –
+- Apiary – for API Design
+- API Platform CS – for API Management
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+The use case is very simple – we need to be able to expose an API that allows us to create new organizations, we will start from the design of that API in the first part and in second part look into management of that API on exposure side.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### API Platform (API Design)
 
-# Header 1
-## Header 2
-### Header 3
+Apiary is the de facto tool for designing APIs. At this stage you should have been given access to Apiary.
 
-- Bulleted
-- List
+•	Login to Apiary at http://apiary.io
+    o	Your trainer will provide you with the credentials
 
-1. Numbered
-2. List
+•	Create a new API Project
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CNOracleEMEA/Oracle-API-Platform-Workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image]/images/1.png
