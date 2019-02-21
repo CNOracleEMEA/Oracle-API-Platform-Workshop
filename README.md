@@ -106,3 +106,25 @@ This should prompt a response like this:
 ![Apiary Project](/images/8.png)
 
 So now we have our API contract, we also have a stub that a mobile developer could use to start developing a mobile app, while we now look at implementing this API in OIC.
+
+
+### API Platform 
+
+•	Login to API Platform – Management Portal
+	Use your trial account
+•	Click on APIs tab on the top left corner
+
+![API Platform](/images/9.png)
+
+•	Click on Create API on the top right corner
+
+![API Platform](/images/10.png)
+
+•	Enter CreateServiceOrg-NN as API name and 1.0 as version. Select ‘Create a default plan for this API’
+
+![API Platform](/images/11.png)
+
+![API Platform](/images/12.png)
+
+Note a Plan has also been created. APIs are made available to developers through Plans.
+
