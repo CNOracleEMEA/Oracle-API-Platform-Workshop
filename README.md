@@ -216,6 +216,18 @@ Configure as follows
 
 Click Apply
 
+![API Platform](/images/23.png)
+
+Click Save
+
+![API Platform](/images/24.png)
+
+Re-deploy to the Gateway
+
+![API Platform](/images/25.png)
+
+
+
 
 
 
