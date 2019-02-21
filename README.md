@@ -7,7 +7,7 @@ This set of labs covers the following Oracle Services –
 
 The use case is very simple – we need to be able to expose an API that allows us to create new organizations, we will start from the design of that API in the first part and in second part look into management of that API on exposure side.
 
-#### LAB1 : [API Design - Apiary](apiary.md)
+#### LAB1 : [API Design - Apiary](apidesign.md)
 
 #### LAB2 : Create an API
 
