@@ -269,6 +269,52 @@ Let’s now deploy the API to the Developer Portal
 
 ![API Platform](/images/33.png)
 
+#### Check out the API in the Developer Portal
+
+- Login to the API Platform - Developer Portal
+Use your cloud trial account
+- Identify your API in the list, filter by searching if needed
+- Click on it
+
+![API Platform](/images/34.png)
+
+Note the embedded documentation from Apiary (only if Standard or Professional edition of Apiary is used).
+- Click on Subscribe
+
+![API Platform](/images/35.png)
+
+- Click on Select Plan
+
+![API Platform](/images/36.png)
+
+APIs are used in the context of an Application, e.g. a mobile app the developer is working on.
+
+- Click Create New Application
+
+![API Platform](/images/37.png)
+
+- Enter your app name etc.
+- Click Save
+
+![API Platform](/images/38.png)
+
+- Note the Application Key, copy it for later
+- Click Subscribe
+
+![API Platform](/images/39.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
