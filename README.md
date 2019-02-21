@@ -165,6 +165,40 @@ Note that the number of API’s waiting (n) for deployment is incremented before
 
 ![API Platform](/images/18.png)
 
+#### Test the API in Postman
+
+Now let’s test the API – using Postman (or similar program)
+- Navigate back to your API. Remember the newly deployed gateway. Copy the associated URL
+
+![API Platform](/images/19.png)
+
+In Postman, open a new Request-tab
+- Enter the URL you copied 
+- Add “/createOrg” to the end of the URL (remember the API-design)
+- Make sure you are using a POST-call
+- Under the tab Authorization
+- Type: Basic Auth
+- Enter your OIC credentials
+
+![API Platform](/images/20.png)
+
+Click on the Body-tab
+- Choose “raw”s
+- Select “JSON(application/json)”
+- Enter the request payload 
+
+```
+{ "orgName": "Bevarage1", "contactFirstName": "Chris", "contactLastName": "O'Connor", "contactEmail": "cc@hotd.ie", "country":"IE" }
+```
+- Click Send
+
+You should have a response similar to this:
+
+
+
+
+
+
 
 
 
