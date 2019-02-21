@@ -9,13 +9,13 @@ The use case is very simple – we need to be able to expose an API that allows 
 
 #### LAB1 : [API Design - Apiary](apidesign.md)
 
-#### LAB2 : Create an API
+#### LAB2 : [Create an API](createapi.md)
 
-#### LAB3 : Add Rate Limiting Policy to API
+#### LAB3 : [Add Rate Limiting Policy to API](addratelimitingpolicy.md)
 
-#### LAB4 : Create a Plan
+#### LAB4 : [Create a Plan](createplan.md)
 
-#### LAB5 : Publish an API to Developer Portal
+#### LAB5 : [Publish an API to Developer Portal](developerportal.md)
 
-#### LAB6 : Add Security Policy to API
+#### LAB6 : [Add Security Policy to API](addsecuritypolicy.md)
 
