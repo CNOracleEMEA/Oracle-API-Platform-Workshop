@@ -23,7 +23,8 @@ NN being the number assigned to you by the trainers
 -	Make sure to select Team API. 
 -	Keep the format as API Blueprint. 
 
-<a href="url"><img src="https://github.com/CNOracleEMEA/Oracle-API-Platform-Workshop/blob/master/images/2.png" align="left" height="250" width="250" ></a>
+<a href="url"><img src="https://github.com/CNOracleEMEA/Oracle-API-Platform-Workshop/blob/master/images/2.png" align="left" height="500" width="300" ></a>
+
 
 Your API project is created with default content – this default API is with Polls example –
 
