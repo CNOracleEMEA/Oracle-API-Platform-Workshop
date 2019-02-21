@@ -13,9 +13,6 @@ The use case is very simple – we need to be able to expose an API that allows 
 Apiary is the de facto tool for designing APIs. At this stage you should have been given access to Apiary.
 
 •	Login to Apiary at http://apiary.io
-
-    o	Your trainer will provide you with the credentials
-
 •	Create a new API Project
 
 ![Apiary Project](/images/1.png)
